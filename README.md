@@ -2,7 +2,11 @@
 <br>
 <h2>Features</h2>
 <li>Core Algorithms</li>
-
+<li>Training the feature columns</li>
+<li>The training process - Input Function</li>
+<li>Creating and Training the model</li>
+<li>Dictionary of predictions</li>
+<li>Classification</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
