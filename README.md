@@ -7,6 +7,7 @@
 <li>Creating and Training the model</li>
 <li>Dictionary of predictions</li>
 <li>Classification</li>
+<li>Build a DNN with 2 hidden layers (30 and 10 hidden nodes each)</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
