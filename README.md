@@ -8,6 +8,12 @@
 <li>Dictionary of predictions</li>
 <li>Classification</li>
 <li>Build a DNN with 2 hidden layers (30 and 10 hidden nodes each)</li>
+<li>Input Function</li>
+<li>Building, training & testing the model</li>
+<li>Predictions</li>
+<li>Clustering</li>
+<li>Create the hidden markov model</li>
+<li> K-Means Clustering </li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
