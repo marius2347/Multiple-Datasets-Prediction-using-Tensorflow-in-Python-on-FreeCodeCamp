@@ -14,6 +14,10 @@
 <li>Clustering</li>
 <li>Create the hidden markov model</li>
 <li> K-Means Clustering </li>
+<li> Neural Networks</li>
+<li> Dataset includes 60.000 images for training and 10.000 images for testing</li>
+<li> Create an array of label names to indicate which is which</li>
+<li> 10 images examples </li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
