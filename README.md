@@ -13,11 +13,18 @@
 <li>Predictions</li>
 <li>Clustering</li>
 <li>Create the hidden markov model</li>
-<li> K-Means Clustering </li>
-<li> Neural Networks</li>
-<li> Dataset includes 60.000 images for training and 10.000 images for testing</li>
-<li> Create an array of label names to indicate which is which</li>
-<li> 10 images examples </li>
+<li>K-Means Clustering </li>
+<li>Neural Networks</li>
+<li>Dataset includes 60.000 images for training and 10.000 images for testing</li>
+<li>Create an array of label names to indicate which is which</li>
+<li>10 images examples </li>
+<li>Data Preprocessing</li>
+<li>Creating the Model</li>
+<li>Compile the Model</li>
+<li>Training the Model</li>
+<li>Testing the Model</li>
+<li>Making Predictions</li>
+<li>Type a number and show the image, expected and guess the clothes</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
