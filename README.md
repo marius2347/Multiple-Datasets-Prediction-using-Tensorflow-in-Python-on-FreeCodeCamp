@@ -39,6 +39,8 @@
 <li>Picking a Pretrained Model</li>
 <li>Create the base model from the pre-trained model MobileNet V2</li>
 <li>Freezing the Base</li>
+<li>Natural Language Processing</li>
+<li>Bag of Words</li>
 
 <h2>Acknowledgments</h2>
 
