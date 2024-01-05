@@ -41,6 +41,8 @@
 <li>Freezing the Base</li>
 <li>Natural Language Processing</li>
 <li>Bag of Words</li>
+<li>Sentiment Analysis / Movie Review Dataset</li>
+
 
 <h2>Acknowledgments</h2>
 
