@@ -42,8 +42,16 @@
 <li>Natural Language Processing</li>
 <li>Bag of Words</li>
 <li>Sentiment Analysis / Movie Review Dataset</li>
-
-
+<li>RNN Play Generator</li>
+<li>Loading Your Own Data</li>
+<li>Read Contents of File</li>
+<li>Encoding to integers</li>
+<li>Convert numeric values to text</li>
+<li>Creating Training Examples (input Hell, output: ello, predict the last character)</li>
+<li>Batch method</li>
+<li>Creating a Loss Function</li>
+<li>Creating Checkpoints</li>
+<li>Generating Text</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
