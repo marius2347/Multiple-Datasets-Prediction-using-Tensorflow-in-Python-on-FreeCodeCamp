@@ -25,7 +25,7 @@
 <li>Testing the Model</li>
 <li>Making Predictions</li>
 <li>Type a number and show the image, expected and guess the clothes</li>
-<li>Deep Computer Vision</li
+<li>Deep Computer Vision</li>
 <li>Convolutional Neural Network</li>
 <li>CIFAR Image Dataset (60.000 images with 32x32 color images with 6000 images of each class)</li>
 <li>CNN Arhitecture (define the layers)</li>
