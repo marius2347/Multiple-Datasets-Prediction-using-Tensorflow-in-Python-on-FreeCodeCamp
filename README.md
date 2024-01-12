@@ -52,6 +52,12 @@
 <li>Creating a Loss Function</li>
 <li>Creating Checkpoints</li>
 <li>Generating Text</li>
+<li>Reinforcement Learning wiht Q-Learning</li>
+<li>Open AI Gym Module by Elon Musk</li>
+<li>Building the Q-Table</li>
+<li>Picking an Action</li>
+<li>Updating Q Values</li>
+
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
