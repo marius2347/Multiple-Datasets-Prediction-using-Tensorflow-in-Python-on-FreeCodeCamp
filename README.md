@@ -28,13 +28,13 @@
 <li>Deep Computer Vision</li>
 <li>Convolutional Neural Network</li>
 <li>CIFAR Image Dataset (60.000 images with 32x32 color images with 6000 images of each class)</li>
-<li>CNN Arhitecture (define the layers)</li>
+<li>CNN Architecture (define the layers)</li>
 <li>Adding dense layers</li>
 <li>Working with Small Datasets</li>
 <li>Data Augmentation</li>
 <li>Pretrained Models</li>
 <li>All images will be resized to 160x160</li>
-<li>Suffle amd batch the images</li>
+<li>Shuffle and batch the images</li>
 <li>Original image vs the new image</li>
 <li>Picking a Pretrained Model</li>
 <li>Create the base model from the pre-trained model MobileNet V2</li>
